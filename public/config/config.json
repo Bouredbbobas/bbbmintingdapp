@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5589678d69b878067296719820ffc5a3e77b4117",
+  "SCAN_LINK": "https://polygonscan.com/token/0x5589678d69b878067296719820ffc5a3e77b4117",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Boured Billionaire Bobas",
+  "SYMBOL": "BBB",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bouredbillionairebobas",
+  "SHOW_BACKGROUND": true
+}
